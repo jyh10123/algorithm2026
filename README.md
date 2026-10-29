@@ -16,7 +16,7 @@
 [HeapSorting](homework/Heap_Sort.pde)
 <img width="1242" height="1216" alt="스크린샷 2026-10-29 120354" src="https://github.com/user-attachments/assets/06584871-e784-49a8-a61c-53af81877a8f" />
 
-[Sorting Animation](homework/sorting_animation.pde)
+[Sorting Animation](homework/Sorting_Animation.pde)
 <img width="878" height="1248" alt="스크린샷 2026-10-29 120758" src="https://github.com/user-attachments/assets/ea0bed39-5805-4f20-bb6c-79b217f8eb38" />
 
 
