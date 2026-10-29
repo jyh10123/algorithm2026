@@ -16,13 +16,11 @@
 [HeapSorting](homework/Heap_Sort.pde)
 <img width="1242" height="1216" alt="스크린샷 2026-10-29 120354" src="https://github.com/user-attachments/assets/06584871-e784-49a8-a61c-53af81877a8f" />
 
-[BST](homework/bst.pde)
-<img width="1102" height="1220" alt="스크린샷 2026-10-29 121111" src="https://github.com/user-attachments/assets/febcd3b6-1d3d-4e52-9b7b-61658ca054b9" />
-
-
 [Sorting Animation](homework/Sorting_Animation.pde)
 <img width="878" height="1248" alt="스크린샷 2026-10-29 120758" src="https://github.com/user-attachments/assets/ea0bed39-5805-4f20-bb6c-79b217f8eb38" />
 
+[BinarySearchTree](homework/Binary_Search_Tree.pde)
+<img width="1102" height="1220" alt="스크린샷 2026-10-29 121111" src="https://github.com/user-attachments/assets/febcd3b6-1d3d-4e52-9b7b-61658ca054b9" />
 
 [Postfix](homework/postfix.pde)
 <img width="2194" height="1378" alt="스크린샷 2026-10-29 113003" src="https://github.com/user-attachments/assets/b6e9a267-73bd-432b-a80c-15f66dbb3610" />
