@@ -7,7 +7,7 @@
 [InsertionSorting](homework/Insertion_Sort.pde)
 <img width="1174" height="1304" alt="스크린샷 2026-10-29 114855" src="https://github.com/user-attachments/assets/20000ae1-eaa9-4945-9227-247dcb317e41" />
 
-[Merge](homework/merge.pde)
+[Merge](homework/Merge_Sort.pde)
 <img width="1060" height="1166" alt="스크린샷 2026-10-29 115247" src="https://github.com/user-attachments/assets/e9c2abb9-eff4-4067-8b13-323c70cbc397" />
 
 
