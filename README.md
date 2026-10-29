@@ -4,7 +4,7 @@
 [BubbleSorting](homework/Bubble_Sorting.pde)
 <img width="1270" height="1206" alt="스크린샷 2026-10-29 114252" src="https://github.com/user-attachments/assets/987a8d6f-462c-4cf8-9a71-7ca93fb7770c" />
 
-[Insertion](homework/insertion.pde)
+[InsertionSorting](homework/insertion.pde)
 <img width="1174" height="1304" alt="스크린샷 2026-10-29 114855" src="https://github.com/user-attachments/assets/20000ae1-eaa9-4945-9227-247dcb317e41" />
 
 
