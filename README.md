@@ -13,6 +13,9 @@
 [QuickSorting](homework/Quick_Sort.pde)
 <img width="1060" height="1166" alt="스크린샷 2026-10-29 115939" src="https://github.com/user-attachments/assets/3b358fa9-15e1-4991-9ff6-698134ff7f0f" />
 
+[Heap](homework/heap.pde)
+<img width="1242" height="1216" alt="스크린샷 2026-10-29 120354" src="https://github.com/user-attachments/assets/06584871-e784-49a8-a61c-53af81877a8f" />
+
 
 [Postfix](homework/postfix.pde)
 <img width="2194" height="1378" alt="스크린샷 2026-10-29 113003" src="https://github.com/user-attachments/assets/b6e9a267-73bd-432b-a80c-15f66dbb3610" />
