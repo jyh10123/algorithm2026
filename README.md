@@ -26,12 +26,13 @@
 <img width="2194" height="1378" alt="스크린샷 2026-10-29 113003" src="https://github.com/user-attachments/assets/b6e9a267-73bd-432b-a80c-15f66dbb3610" />
 
 HomeWork 5
-
 [PebblePlacement](homework/Pebble_Placement_Problem.pde)
 <img width="2256" height="1322" alt="스크린샷 2026-11-26 104854" src="https://github.com/user-attachments/assets/f9728a75-a635-4c91-a492-7e3726820dcf" />
 
+HomeWork 6
 [BFSandDFSforaGraph](homework/BFS_and_DFS_for_a_Graph.pde)
 <img width="2538" height="1278" alt="스크린샷 2026-11-26 105130" src="https://github.com/user-attachments/assets/e7baeaa3-1d9b-4925-a1be-8ff37a214225" />
 
+Homework 7
 [MinimumSpanningTree](homework/Minimum_Spanning_Tree.pde)
 <img width="2506" height="1332" alt="스크린샷 2026-11-26 105348" src="https://github.com/user-attachments/assets/23257d08-64cd-4f14-9fa8-8d4dcf881cdf" />
