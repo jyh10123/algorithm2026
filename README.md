@@ -25,7 +25,8 @@
 [Postfix](homework/postfix.pde)
 <img width="2194" height="1378" alt="스크린샷 2026-10-29 113003" src="https://github.com/user-attachments/assets/b6e9a267-73bd-432b-a80c-15f66dbb3610" />
 
-HOMEWORK5
+HomeWork 5
+
 [PebblePlacement](homework/Pebble_Placement_Problem.pde)
 <img width="2256" height="1322" alt="스크린샷 2026-11-26 104854" src="https://github.com/user-attachments/assets/f9728a75-a635-4c91-a492-7e3726820dcf" />
 
