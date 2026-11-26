@@ -27,3 +27,6 @@
 
 [PebblePlacement](homework/Pebble_Placement_Problem.pde)
 <img width="2256" height="1322" alt="스크린샷 2026-11-26 104854" src="https://github.com/user-attachments/assets/f9728a75-a635-4c91-a492-7e3726820dcf" />
+
+[BFSandDFSforaGraph](homework/BFS_and_DFS_for_a_Graph.pde)
+<img width="2538" height="1278" alt="스크린샷 2026-11-26 105130" src="https://github.com/user-attachments/assets/e7baeaa3-1d9b-4925-a1be-8ff37a214225" />
