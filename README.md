@@ -30,3 +30,6 @@
 
 [BFSandDFSforaGraph](homework/BFS_and_DFS_for_a_Graph.pde)
 <img width="2538" height="1278" alt="스크린샷 2026-11-26 105130" src="https://github.com/user-attachments/assets/e7baeaa3-1d9b-4925-a1be-8ff37a214225" />
+
+[MinimumSpanningTree](homework/Minimum_Spanning_Tree.pde)
+<img width="2506" height="1332" alt="스크린샷 2026-11-26 105348" src="https://github.com/user-attachments/assets/23257d08-64cd-4f14-9fa8-8d4dcf881cdf" />
